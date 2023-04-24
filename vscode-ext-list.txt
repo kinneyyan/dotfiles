@@ -1,0 +1,13 @@
+dbaeumer.vscode-eslint-2.2.6
+eamodio.gitlens-12.1.2
+esbenp.prettier-vscode-9.8.0
+formulahendry.auto-close-tag-0.5.14
+formulahendry.auto-rename-tag-0.1.10
+ionutvmi.path-autocomplete-1.20.2
+octref.vetur-0.36.0
+shan.code-settings-sync-3.4.3
+shd101wyy.markdown-preview-enhanced-0.6.3
+stylelint.vscode-stylelint-1.2.3
+tabnine.tabnine-vscode-3.6.13
+vscodevim.vim-1.23.2
+wayou.vscode-todo-highlight-1.0.5
